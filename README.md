@@ -1,1 +1,2 @@
-# uniHack2020
+# EasyTestApp
+UniHack2020 project
